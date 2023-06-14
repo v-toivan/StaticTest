@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/*",
-            "redirect": "https://www.example.com",
+            "redirect": "statictest-gnabgybbc5fegcd6.z01.azurefd.net",
             "statusCode": 301
         }
     ]
